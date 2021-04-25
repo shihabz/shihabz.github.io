@@ -1,3 +1,14 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+
+background-color: rgba(184, 52, 52, 0.527);
+
+}
+
+.banner-column{
+
+    background-color: rgba(65, 3, 83, 0.678);
+}
+
